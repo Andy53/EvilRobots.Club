@@ -2,7 +2,3 @@ theme: jekyll-theme-minimal
 title: Evil Robot Club's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-layout: page
-title: "About"
-permalink: /About
-
